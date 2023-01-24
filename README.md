@@ -1,10 +1,10 @@
 # main
 
-2023 01/24 일
-
 crud  포토폴리오 입니다. 
 
 Tool:spring my batis
+
+
 DBMS : oracle
 
 
